@@ -1,6 +1,6 @@
-# Smart_Surveillance
-Smart Surveillance System With Facial Recognition
-# Smart Surveillance with Facial Recognition 
+# Smart Surveillance With Facial Recognition
+
+
 
 Smart Surveillance. This application is a low-cost, adaptive, and extensible surveillance system focused on identifying and alerting potential intruders. It can integrate into existing alarm systems and provide customizable alerts for users. It can process multiple IP cameras and distinguish between known individuals in the face database and potential intruders. This smart surveillance system can also be used in supermarkets to monitor flagged individuals, as well as in airports, ferry crossings, railway stations, and other public areas for enhanced security.
 
